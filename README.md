@@ -5,6 +5,7 @@ Reyhan Aydoğan · Mehmet Onur Keskin · Umut Çakan
 [Paper](https://doi.org/10.1109/THMS.2021.3121664) · [Explore the method](METHOD.md) · [Try the code](#try-it-yourself) · [Study guide](docs/protocol.md) · [Citation](#cite-the-paper)
 
 [![Tests](https://github.com/monurkeskin/Jennifer-Why-Not-THMS-2022/actions/workflows/tests.yml/badge.svg)](https://github.com/monurkeskin/Jennifer-Why-Not-THMS-2022/actions/workflows/tests.yml)
+[![codecov](https://codecov.io/gh/monurkeskin/Jennifer-Why-Not-THMS-2022/branch/main/graph/badge.svg)](https://codecov.io/gh/monurkeskin/Jennifer-Why-Not-THMS-2022)
 
 Jennifer can make the same offer with a neutral posture, a pleased gesture or a
 visible sign of frustration. **Does that body language change the negotiation,
